@@ -1,0 +1,406 @@
+fileFormatVersion: 2
+guid: 85f6f4b1677d39744b4d0e5c6e952bf1
+timeCreated: 1453186884
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mortar_explode_0
+    21300002: mortar_explode_2
+    21300004: mortar_explode_1
+    21300006: mortar_explode_3
+    21300008: CanonTowerUpgrade_0
+    21300010: CanonTowerUpgrade_1
+    21300012: CanonTowerUpgrade_2
+    21300014: CanonTowerUpgrade_3
+    21300016: CanonTowerUpgrade_4
+    21300018: CanonTowerUpgrade_5
+    21300020: SoulTower21_0
+    21300022: SoulTower21_1
+    21300024: DarkWizardImmuneSpellEffect_0
+    21300026: DarkWizardImmuneSpellEffect_1
+    21300028: DarkWizardImmuneSpellEffect_2
+    21300030: DarkWizardImmuneSpellEffect_3
+    21300032: Skill_Meteor5
+    21300034: Skill_Meteor6
+    21300036: Skill_Meteor9
+    21300038: Skill_Meteor8
+    21300040: Skill_Meteor7
+    21300042: Mine0
+    21300044: Mine1
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: 12
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mortar_explode_0
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 891
+        width: 128
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06309791}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mortar_explode_2
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 666
+        width: 108
+        height: 125
+      alignment: 9
+      pivot: {x: 0.5150028, y: 0.08519824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mortar_explode_1
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 662
+        width: 95
+        height: 120
+      alignment: 9
+      pivot: {x: 0.50852823, y: 0.07466634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mortar_explode_3
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 661
+        width: 80
+        height: 125
+      alignment: 9
+      pivot: {x: 0.51012725, y: 0.06575439}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CanonTowerUpgrade_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 938
+        width: 91
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CanonTowerUpgrade_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 933
+        width: 68
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CanonTowerUpgrade_2
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 929
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CanonTowerUpgrade_3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 825
+        width: 98
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CanonTowerUpgrade_4
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 833
+        width: 62
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CanonTowerUpgrade_5
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 825
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SoulTower21_0
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 923
+        width: 103
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SoulTower21_1
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 282
+        width: 82
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DarkWizardImmuneSpellEffect_0
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 968
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DarkWizardImmuneSpellEffect_1
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 971
+        width: 57
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DarkWizardImmuneSpellEffect_2
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 971
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DarkWizardImmuneSpellEffect_3
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 937
+        width: 57
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Skill_Meteor5
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 286
+        width: 124
+        height: 272
+      alignment: 9
+      pivot: {x: 0.45987383, y: 0.17682323}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Skill_Meteor6
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 14
+        width: 119
+        height: 262
+      alignment: 9
+      pivot: {x: 0.50000054, y: 0.17714913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Skill_Meteor9
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 195
+        width: 139
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Skill_Meteor8
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 195
+        width: 126
+        height: 275
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Skill_Meteor7
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 207
+        width: 113
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mine0
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 2
+        width: 112
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mine1
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 0
+        width: 261
+        height: 161
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

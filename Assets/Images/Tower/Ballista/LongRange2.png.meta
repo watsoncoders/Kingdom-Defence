@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: c38d61802532ece4a87d7e1b754ff3c3
+timeCreated: 1456382111
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: LongRange2_0
+    21300002: LongRange2_1
+    21300004: LongRange2_2
+    21300006: LongRange2_3
+    21300008: LongRange2_4
+    21300010: LongRange2_5
+    21300012: LongRange2_6
+    21300014: LongRange2_7
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: 12
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LongRange2_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 195
+        width: 113
+        height: 158
+      alignment: 9
+      pivot: {x: 0.49440178, y: 0.1556888}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LongRange2_1
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 195
+        width: 113
+        height: 163
+      alignment: 9
+      pivot: {x: 0.4944019, y: 0.13909481}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LongRange2_2
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 195
+        width: 113
+        height: 164
+      alignment: 9
+      pivot: {x: 0.51119643, y: 0.14126745}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LongRange2_3
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 195
+        width: 113
+        height: 169
+      alignment: 9
+      pivot: {x: 0.51119643, y: 0.14813764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LongRange2_4
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 113
+        height: 169
+      alignment: 9
+      pivot: {x: 0.49440178, y: 0.11819184}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LongRange2_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 0
+        width: 113
+        height: 166
+      alignment: 9
+      pivot: {x: 0.49440178, y: 0.13034624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LongRange2_6
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 0
+        width: 113
+        height: 155
+      alignment: 9
+      pivot: {x: 0.4944015, y: 0.11227519}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LongRange2_7
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 0
+        width: 113
+        height: 158
+      alignment: 9
+      pivot: {x: 0.48850054, y: 0.12993187}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

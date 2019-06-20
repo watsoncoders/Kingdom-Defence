@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: 2f10ebd27bdfeb74e9fb4e3033014a10
+timeCreated: 1451359500
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 52_0
+    21300002: 52_1
+    21300004: 52_2
+    21300006: 52_3
+    21300008: 52_4
+    21300010: 52_5
+    21300012: basic01_0
+    21300014: basic01_1
+    21300016: basic01_2
+    21300018: basic01_3
+    21300020: basic01_4
+    21300022: basic01_5
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: 12
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: basic01_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 6
+        width: 104
+        height: 147
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.17004761}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: basic01_1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 6
+        width: 99
+        height: 150
+      alignment: 9
+      pivot: {x: 0.49999985, y: 0.14471056}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: basic01_2
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 6
+        width: 97
+        height: 156
+      alignment: 9
+      pivot: {x: 0.4876533, y: 0.16221404}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: basic01_3
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 6
+        width: 97
+        height: 158
+      alignment: 9
+      pivot: {x: 0.5061731, y: 0.15890998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: basic01_4
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 6
+        width: 120
+        height: 141
+      alignment: 9
+      pivot: {x: 0.5149699, y: 0.16874765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: basic01_5
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 6
+        width: 113
+        height: 136
+      alignment: 9
+      pivot: {x: 0.50529873, y: 0.17858398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

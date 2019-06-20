@@ -1,0 +1,642 @@
+fileFormatVersion: 2
+guid: c0895386a2032f94eab79ac90ea1f7cb
+timeCreated: 1458194155
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Skill_Meteor0
+    21300002: effects2_1
+    21300004: effects2_2
+    21300006: effects2_3
+    21300008: effects2_4
+    21300010: effects2_5
+    21300012: effects2_6
+    21300014: effects2_7
+    21300016: effects2_8
+    21300018: Skill_Meteor3
+    21300020: SoulTowerUpgrade_0
+    21300022: effects2_11
+    21300024: HellGuard_3
+    21300026: effects2_13
+    21300028: effects2_14
+    21300030: SoulTowerUpgrade_1
+    21300032: effects2_16
+    21300034: HellGuard_2
+    21300036: effects2_18
+    21300038: effects2_19
+    21300040: effects2_20
+    21300042: effects2_21
+    21300044: effects2_22
+    21300046: effects2_23
+    21300048: Mine2
+    21300050: effects2_25
+    21300052: SoulTowerUpgrade_2
+    21300054: effects2_27
+    21300056: effects2_28
+    21300058: effects2_29
+    21300060: effects2_30
+    21300062: SoulTowerUpgrade_3
+    21300064: effects2_32
+    21300066: effects2_33
+    21300068: effects2_34
+    21300070: effects2_35
+    21300072: effects2_36
+    21300074: effects2_37
+    21300076: SoulTowerUpgrade_4
+    21300078: effects2_39
+    21300080: effects2_40
+    21300082: effects2_41
+    21300084: Mine4
+    21300086: Skill_Meteor1
+    21300088: SoulTowerUpgrade_5
+    21300090: effects2_45
+    21300092: effects2_46
+    21300094: effects2_47
+    21300096: effects2_48
+    21300098: effects2_49
+    21300100: effects2_50
+    21300102: effects2_51
+    21300104: effects2_52
+    21300106: effects2_53
+    21300108: effects2_54
+    21300110: effects2_55
+    21300112: HellGuard_4
+    21300114: effects2_57
+    21300116: effects2_58
+    21300118: effects2_59
+    21300120: effects2_60
+    21300122: SoulTowerUpgrade_7
+    21300124: effects2_62
+    21300126: effects2_63
+    21300128: effects2_64
+    21300130: effects2_65
+    21300132: effects2_66
+    21300134: effects2_67
+    21300136: effects2_68
+    21300138: effects2_69
+    21300140: effects2_70
+    21300142: effects2_71
+    21300144: effects2_72
+    21300146: effects2_73
+    21300148: HellGuard_1
+    21300150: HellGuard_0
+    21300152: Mine6
+    21300154: Skill_Meteor2
+    21300156: SoulTowerUpgrade_8
+    21300158: effects2_79
+    21300160: SoulTowerUpgrade_9
+    21300162: effects2_81
+    21300164: effects2_82
+    21300166: SoulTowerUpgrade_10
+    21300168: effects2_84
+    21300170: effects2_85
+    21300172: SoulTowerUpgrade_11
+    21300174: effects2_87
+    21300176: SoulTowerUpgrade_6
+    21300178: HellGuard_5
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: 12
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skill_Meteor0
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 774
+        width: 94
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: effects2_5
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 893
+        width: 77
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: effects2_7
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 836
+        width: 109
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: effects2_8
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 836
+        width: 103
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Skill_Meteor3
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 595
+        width: 119
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SoulTowerUpgrade_0
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 817
+        width: 67
+        height: 69
+      alignment: 9
+      pivot: {x: 0.47905582, y: 0.35764214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: effects2_11
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 827
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HellGuard_3
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 556
+        width: 242
+        height: 265
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SoulTowerUpgrade_1
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 743
+        width: 64
+        height: 68
+      alignment: 9
+      pivot: {x: 0.51096153, y: 0.35080943}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: effects2_16
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 810
+        width: 10
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HellGuard_2
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 560
+        width: 257
+        height: 234
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mine2
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 566
+        width: 259
+        height: 144
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SoulTowerUpgrade_2
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 668
+        width: 65
+        height: 72
+      alignment: 9
+      pivot: {x: 0.48920524, y: 0.36055416}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SoulTowerUpgrade_3
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 592
+        width: 64
+        height: 74
+      alignment: 9
+      pivot: {x: 0.48903656, y: 0.36029053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: effects2_36
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 582
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SoulTowerUpgrade_4
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 515
+        width: 68
+        height: 75
+      alignment: 9
+      pivot: {x: 0.47936383, y: 0.4116162}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: effects2_41
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 446
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mine4
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 350
+        width: 185
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Skill_Meteor1
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 316
+        width: 90
+        height: 246
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SoulTowerUpgrade_5
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 443
+        width: 68
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5340154, y: 0.40179402}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: effects2_54
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 390
+        width: 4
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HellGuard_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 298
+        width: 243
+        height: 218
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: effects2_59
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 365
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SoulTowerUpgrade_7
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 299
+        width: 66
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5233644, y: 0.33663812}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HellGuard_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 6
+        width: 243
+        height: 234
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HellGuard_0
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 17
+        width: 244
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mine6
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 179
+        width: 74
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Skill_Meteor2
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 33
+        width: 122
+        height: 247
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SoulTowerUpgrade_8
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 225
+        width: 63
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36921585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SoulTowerUpgrade_9
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 150
+        width: 66
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5282149, y: 0.33621618}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SoulTowerUpgrade_10
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 77
+        width: 64
+        height: 69
+      alignment: 9
+      pivot: {x: 0.52909565, y: 0.36432803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: effects2_84
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 69
+        width: 9
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: effects2_85
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 65
+        width: 10
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SoulTowerUpgrade_11
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 3
+        width: 63
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5147792, y: 0.39131472}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SoulTowerUpgrade_6
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 373
+        width: 68
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5340154, y: 0.38492367}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HellGuard_5
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 296
+        width: 242
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0062116655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

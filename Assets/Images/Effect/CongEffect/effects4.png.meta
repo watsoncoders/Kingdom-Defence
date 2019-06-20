@@ -1,0 +1,294 @@
+fileFormatVersion: 2
+guid: 03423695096f3ce4488ce2c5414b4ddb
+timeCreated: 1452147152
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: LongRangeUpgrade_0
+    21300002: LongRangeUpgrade_1
+    21300004: LongRangeUpgrade_2
+    21300006: ImortalDevilRevive_0
+    21300008: ImortalDevilRevive_1
+    21300010: ImortalDevilRevive_2
+    21300012: ImortalDevilRevive_3
+    21300014: ImortalDevilRevive_9
+    21300016: ImortalDevilRevive_5
+    21300018: ImortalDevilRevive_6
+    21300020: ImortalDevilRevive_7
+    21300022: ImortalDevilRevive_8
+    21300024: ImortalDevilRevive_11
+    21300026: ImortalDevilRevive_10
+    21300028: ImortalDevilRevive_4
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: 12
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LongRangeUpgrade_0
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 840
+        width: 90
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LongRangeUpgrade_1
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 656
+        width: 86
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LongRangeUpgrade_2
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 474
+        width: 86
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ImortalDevilRevive_0
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 568
+        width: 32
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4085224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ImortalDevilRevive_1
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 198
+        width: 32
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41191158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ImortalDevilRevive_2
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 384
+        width: 32
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36278474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ImortalDevilRevive_3
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 16
+        width: 31
+        height: 25
+      alignment: 9
+      pivot: {x: 0.4808192, y: 0.381082}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ImortalDevilRevive_9
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 558
+        width: 43
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ImortalDevilRevive_5
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 11
+        width: 46
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48648617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ImortalDevilRevive_6
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 195
+        width: 134
+        height: 161
+      alignment: 9
+      pivot: {x: 0.49556264, y: 0.27841243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ImortalDevilRevive_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 379
+        width: 130
+        height: 155
+      alignment: 9
+      pivot: {x: 0.49542624, y: 0.3120318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ImortalDevilRevive_8
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 382
+        width: 124
+        height: 171
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27746207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ImortalDevilRevive_11
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 11
+        width: 42
+        height: 162
+      alignment: 9
+      pivot: {x: 0.48584312, y: 0.28345042}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ImortalDevilRevive_10
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 198
+        width: 39
+        height: 154
+      alignment: 9
+      pivot: {x: 0.454262, y: 0.22973038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ImortalDevilRevive_4
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 199
+        width: 31
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38108033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

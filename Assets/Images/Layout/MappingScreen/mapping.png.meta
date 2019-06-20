@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: 7553661b691279a4eac9480f8c066a4b
+timeCreated: 1456127979
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Stage_0
+    21300002: LevelIconStage1
+    21300004: Stage_1
+    21300006: Stage_2
+    21300008: Stage_3
+    21300010: Stage_4
+    21300012: Star_0
+    21300014: Star_1
+    21300016: Star_2
+    21300018: Star_3
+    21300020: LevelIconStage2
+    21300022: LevelIconStage3
+    21300024: LevelIconStage4
+    21300026: LevelIconStage5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 64
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Stage_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 210
+        width: 452
+        height: 207
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LevelIconStage1
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 212
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 516
+        height: 195
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage_2
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 13
+        width: 432
+        height: 196
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage_3
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 15
+        width: 383
+        height: 256
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage_4
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 13
+        width: 344
+        height: 156
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Star_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 485
+        width: 55
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Star_1
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 168
+        width: 56
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Star_2
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 270
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Star_3
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 13
+        width: 58
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LevelIconStage2
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 418
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LevelIconStage3
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 419
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LevelIconStage4
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 17
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LevelIconStage5
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 113
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
