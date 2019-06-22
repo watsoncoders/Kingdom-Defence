@@ -1,2 +1,2 @@
 # Kingdom-Defence
-A unity game similar to COC
+A unity Tower defence game similar to COC (clash of clans)
